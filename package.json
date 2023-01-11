@@ -25,7 +25,7 @@
     "dotenv": "^8.2.0",
     "express-server-utils": "^1.1.0",
     "jsonwebtoken": "^8.5.1",
-    "knex": "^0.20.9",
+    "knex": "^2.4.0",
     "passport": "^0.4.1",
     "passport-google-oauth": "^2.0.0",
     "passport-google-token": "^0.1.2",
